@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DEVDATT00/suuu/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/DEVDATT00/suuu/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/DEVDATT00/suuu/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
