@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DEVDATT00/suuu/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DEVDATT00/suuu/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/DEVDATT00/suuu/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/DEVDATT00/suuu/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/DEVDATT00/suuu/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/DEVDATT00/suuu/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/DEVDATT00/suuu/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/DEVDATT00/suuu/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/DEVDATT00/suuu/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/DEVDATT00/suuu/tree/master/0387-first-unique-character-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/DEVDATT00/suuu/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Dynamic Programming
 |  |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVDATT00/suuu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DEVDATT00/suuu/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
