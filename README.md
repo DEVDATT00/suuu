@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DEVDATT00/suuu/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/DEVDATT00/suuu/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DEVDATT00/suuu/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DEVDATT00/suuu/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/DEVDATT00/suuu/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/DEVDATT00/suuu/tree/master/0509-fibonacci-number) |
@@ -162,5 +163,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/DEVDATT00/suuu/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DEVDATT00/suuu/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/DEVDATT00/suuu/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0206-reverse-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DEVDATT00/suuu/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
