@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/DEVDATT00/suuu/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DEVDATT00/suuu/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/DEVDATT00/suuu/tree/master/0509-fibonacci-number) |
+| [2169-count-operations-to-obtain-zero](https://github.com/DEVDATT00/suuu/tree/master/2169-count-operations-to-obtain-zero) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/DEVDATT00/suuu/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DEVDATT00/suuu/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/DEVDATT00/suuu/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DEVDATT00/suuu/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3174-clear-digits](https://github.com/DEVDATT00/suuu/tree/master/3174-clear-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/DEVDATT00/suuu/tree/master/3925-concatenate-array-with-reverse) |
