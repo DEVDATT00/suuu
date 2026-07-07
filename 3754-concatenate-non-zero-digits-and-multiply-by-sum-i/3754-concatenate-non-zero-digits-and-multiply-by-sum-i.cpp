@@ -1,18 +1,18 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
-        long long count = 0 ;
-        int sum = 0;
-        int tem;
-        string s = to_string(n);
-        for(int i = 0 ; i < s.length() ; i++){
-            tem = s[i] - '0';
-            if(tem){
-                count = count * 10 + tem;
-                sum += tem;
+        long long c = 0 ;
+        int s = 0;
+        int t;
+        string st = to_string(n);
+        for(int i = 0 ; i < st.length() ; i++){
+            t = st[i] - '0';
+            if(t){
+                c = c * 10 + t;
+                s += t;
             }
         }
-        return count * sum;
+        return c * s;
         // long long x = 0;
         //     int r = 1;
         //     int sum_digits = 0;
