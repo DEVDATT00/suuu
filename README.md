@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/DEVDATT00/suuu/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DEVDATT00/suuu/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DEVDATT00/suuu/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/DEVDATT00/suuu/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/DEVDATT00/suuu/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DEVDATT00/suuu/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/DEVDATT00/suuu/tree/master/1672-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/DEVDATT00/suuu/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/DEVDATT00/suuu/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Linked List
 |  |
 | ------- |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/DEVDATT00/suuu/tree/master/1291-sequential-digits) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/DEVDATT00/suuu/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
