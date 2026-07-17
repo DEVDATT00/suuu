@@ -1,40 +1,36 @@
 class Solution {
-    bool check(unordered_map<int, list<int>>& mp, int u, int v) {
-        for (int x : mp[u]) {
-            if (x == v) {
-                return true;
-            }
-        }
-        return false;
-    }
-
 public:
     int maximalNetworkRank(int n, vector<vector<int>>& roads) {
-        if (n == 2) {
-            return roads.size();
+
+        vector<int> degree(n, 0);
+        vector<vector<bool>> connected(n, vector<bool>(n, false));
+
+        for (auto &road : roads) {
+            int u = road[0];
+            int v = road[1];
+
+            degree[u]++;
+            degree[v]++;
+
+            connected[u][v] = true;
+            connected[v][u] = true;
         }
-        unordered_map<int, list<int>> mp;
-        vector<int> count(n, 0);
-        int u, v;
-        for (int i = 0; i < roads.size(); i++) {
-            u = roads[i][0];
-            v = roads[i][1];
-            mp[u].push_back(v);
-            mp[v].push_back(u);
-            count[u]++;
-            count[v]++;
-        }
+
         int ans = 0;
+
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
-                int rank = count[i] + count[j];
 
-                if (check(mp, i, j))
+                int rank = degree[i] + degree[j];
+
+                if (connected[i][j]) {
                     rank--;
+                }
 
                 ans = max(ans, rank);
             }
         }
+
         return ans;
     }
 };
