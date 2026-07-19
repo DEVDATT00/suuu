@@ -14,22 +14,14 @@ public:
 
         ListNode dummy(0);
         dummy.next = head;
-
         ListNode* prev = &dummy;
         ListNode* curr = head;
-
         while (curr != nullptr) {
-
-            // Duplicate sequence found
             if (curr->next != nullptr && curr->val == curr->next->val) {
-
                 int value = curr->val;
-
-                // Skip all nodes having the same value
                 while (curr != nullptr && curr->val == value) {
                     curr = curr->next;
                 }
-
                 prev->next = curr;
             }
             else {
@@ -37,7 +29,6 @@ public:
                 curr = curr->next;
             }
         }
-
         return dummy.next;
     }
 };
