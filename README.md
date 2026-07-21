@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0144-binary-tree-preorder-traversal) |
 | [3174-clear-digits](https://github.com/DEVDATT00/suuu/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/DEVDATT00/suuu/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/DEVDATT00/suuu/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/DEVDATT00/suuu/tree/master/0547-number-of-provinces) |
@@ -283,4 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/DEVDATT00/suuu/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/DEVDATT00/suuu/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVDATT00/suuu/tree/master/1971-find-if-path-exists-in-graph) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
