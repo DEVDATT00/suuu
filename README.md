@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DEVDATT00/suuu/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/DEVDATT00/suuu/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DEVDATT00/suuu/tree/master/0112-path-sum) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DEVDATT00/suuu/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/DEVDATT00/suuu/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DEVDATT00/suuu/tree/master/0112-path-sum) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DEVDATT00/suuu/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/DEVDATT00/suuu/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DEVDATT00/suuu/tree/master/0112-path-sum) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DEVDATT00/suuu/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/DEVDATT00/suuu/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DEVDATT00/suuu/tree/master/0112-path-sum) |
