@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0145-binary-tree-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0897-increasing-order-search-tree) |
 | [3174-clear-digits](https://github.com/DEVDATT00/suuu/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/DEVDATT00/suuu/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DEVDATT00/suuu/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/DEVDATT00/suuu/tree/master/0841-keys-and-rooms) |
+| [0897-increasing-order-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DEVDATT00/suuu/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DEVDATT00/suuu/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/DEVDATT00/suuu/tree/master/1302-deepest-leaves-sum) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DEVDATT00/suuu/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DEVDATT00/suuu/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DEVDATT00/suuu/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/DEVDATT00/suuu/tree/master/1302-deepest-leaves-sum) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DEVDATT00/suuu/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DEVDATT00/suuu/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DEVDATT00/suuu/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/DEVDATT00/suuu/tree/master/1302-deepest-leaves-sum) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DEVDATT00/suuu/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DEVDATT00/suuu/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DEVDATT00/suuu/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DEVDATT00/suuu/tree/master/1305-all-elements-in-two-binary-search-trees) |
