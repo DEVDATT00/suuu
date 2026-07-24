@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/DEVDATT00/suuu/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/DEVDATT00/suuu/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/DEVDATT00/suuu/tree/master/1020-number-of-enclaves) |
 | [1051-height-checker](https://github.com/DEVDATT00/suuu/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/DEVDATT00/suuu/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/DEVDATT00/suuu/tree/master/1260-shift-2d-grid) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/DEVDATT00/suuu/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DEVDATT00/suuu/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/DEVDATT00/suuu/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/DEVDATT00/suuu/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/DEVDATT00/suuu/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DEVDATT00/suuu/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/DEVDATT00/suuu/tree/master/1672-richest-customer-wealth) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/DEVDATT00/suuu/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DEVDATT00/suuu/tree/master/0938-range-sum-of-bst) |
+| [1020-number-of-enclaves](https://github.com/DEVDATT00/suuu/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DEVDATT00/suuu/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/DEVDATT00/suuu/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DEVDATT00/suuu/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/DEVDATT00/suuu/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/DEVDATT00/suuu/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/DEVDATT00/suuu/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/DEVDATT00/suuu/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/DEVDATT00/suuu/tree/master/1302-deepest-leaves-sum) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVDATT00/suuu/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DEVDATT00/suuu/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/DEVDATT00/suuu/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/DEVDATT00/suuu/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/DEVDATT00/suuu/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVDATT00/suuu/tree/master/1971-find-if-path-exists-in-graph) |
 ## Tree
 |  |
