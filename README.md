@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/DEVDATT00/suuu/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/DEVDATT00/suuu/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/DEVDATT00/suuu/tree/master/1108-defanging-an-ip-address) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DEVDATT00/suuu/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3174-clear-digits](https://github.com/DEVDATT00/suuu/tree/master/3174-clear-digits) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/DEVDATT00/suuu/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DEVDATT00/suuu/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/DEVDATT00/suuu/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DEVDATT00/suuu/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVDATT00/suuu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Queue
 |  |
