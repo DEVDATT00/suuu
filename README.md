@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/DEVDATT00/suuu/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/DEVDATT00/suuu/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/DEVDATT00/suuu/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/DEVDATT00/suuu/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/DEVDATT00/suuu/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/DEVDATT00/suuu/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/DEVDATT00/suuu/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DEVDATT00/suuu/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/DEVDATT00/suuu/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/DEVDATT00/suuu/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/DEVDATT00/suuu/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DEVDATT00/suuu/tree/master/0938-range-sum-of-bst) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/DEVDATT00/suuu/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DEVDATT00/suuu/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/DEVDATT00/suuu/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/DEVDATT00/suuu/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/DEVDATT00/suuu/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/DEVDATT00/suuu/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/DEVDATT00/suuu/tree/master/1020-number-of-enclaves) |
@@ -444,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/DEVDATT00/suuu/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/DEVDATT00/suuu/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/DEVDATT00/suuu/tree/master/0797-all-paths-from-source-to-target) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/DEVDATT00/suuu/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
