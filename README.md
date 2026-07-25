@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/DEVDATT00/suuu/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/DEVDATT00/suuu/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/DEVDATT00/suuu/tree/master/0746-min-cost-climbing-stairs) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/DEVDATT00/suuu/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0905-sort-array-by-parity](https://github.com/DEVDATT00/suuu/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/DEVDATT00/suuu/tree/master/0994-rotting-oranges) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/DEVDATT00/suuu/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVDATT00/suuu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Queue
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/DEVDATT00/suuu/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/DEVDATT00/suuu/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DEVDATT00/suuu/tree/master/0733-flood-fill) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/DEVDATT00/suuu/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0994-rotting-oranges](https://github.com/DEVDATT00/suuu/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/DEVDATT00/suuu/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/DEVDATT00/suuu/tree/master/1260-shift-2d-grid) |
