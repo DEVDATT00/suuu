@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/DEVDATT00/suuu/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DEVDATT00/suuu/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/DEVDATT00/suuu/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DEVDATT00/suuu/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DEVDATT00/suuu/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DEVDATT00/suuu/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVDATT00/suuu/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/DEVDATT00/suuu/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/DEVDATT00/suuu/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DEVDATT00/suuu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/DEVDATT00/suuu/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/DEVDATT00/suuu/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/DEVDATT00/suuu/tree/master/0733-flood-fill) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DEVDATT00/suuu/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVDATT00/suuu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/DEVDATT00/suuu/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DEVDATT00/suuu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/DEVDATT00/suuu/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/DEVDATT00/suuu/tree/master/1051-height-checker) |
