@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/DEVDATT00/suuu/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/DEVDATT00/suuu/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DEVDATT00/suuu/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/DEVDATT00/suuu/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/DEVDATT00/suuu/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVDATT00/suuu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DEVDATT00/suuu/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/DEVDATT00/suuu/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DEVDATT00/suuu/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVDATT00/suuu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/DEVDATT00/suuu/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DEVDATT00/suuu/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DEVDATT00/suuu/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
 | ------- |
