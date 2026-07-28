@@ -10,13 +10,12 @@
  */
 
 class Solution {
-public:
-    // Merge two sorted linked lists
+private:
     ListNode* merge(ListNode* left, ListNode* right) {
         ListNode dummy;
         ListNode* tail = &dummy;
 
-        while (left != nullptr && right != nullptr) {
+        while (left  != nullptr && right != nullptr){
             if (left->val <= right->val) {
                 tail->next = left;
                 left = left->next;
@@ -35,15 +34,14 @@ public:
         return dummy.next;
     }
 
-    ListNode* sortList(ListNode* head) {
-        if (head == nullptr || head->next == nullptr)
+    ListNode* mergeSort(ListNode* head) {
+        if(head == nullptr || head->next == nullptr)
             return head;
-
         ListNode* slow = head;
         ListNode* fast = head;
         ListNode* prev = nullptr;
 
-        while (fast != nullptr && fast->next != nullptr) {
+        while (fast && fast->next) {
             prev = slow;
             slow = slow->next;
             fast = fast->next->next;
@@ -51,10 +49,16 @@ public:
 
         prev->next = nullptr;
 
-        ListNode* left = sortList(head);
-        ListNode* right = sortList(slow);
+        ListNode* left = mergeSort(head);
+        ListNode* right = mergeSort(slow);
 
-        // Merge sorted halves
         return merge(left, right);
+    }
+
+public:
+    ListNode* sortList(ListNode* head) {
+        if (head == nullptr || head->next == nullptr)
+            return head;
+        return mergeSort(head);
     }
 };
