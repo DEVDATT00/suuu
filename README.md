@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVDATT00/suuu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/DEVDATT00/suuu/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DEVDATT00/suuu/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DEVDATT00/suuu/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DEVDATT00/suuu/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DEVDATT00/suuu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/DEVDATT00/suuu/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/DEVDATT00/suuu/tree/master/3174-clear-digits) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/DEVDATT00/suuu/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DEVDATT00/suuu/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DEVDATT00/suuu/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/DEVDATT00/suuu/tree/master/1051-height-checker) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DEVDATT00/suuu/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
 | ------- |
