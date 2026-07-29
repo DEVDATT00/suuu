@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DEVDATT00/suuu/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/DEVDATT00/suuu/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/DEVDATT00/suuu/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVDATT00/suuu/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DEVDATT00/suuu/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DEVDATT00/suuu/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/DEVDATT00/suuu/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DEVDATT00/suuu/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DEVDATT00/suuu/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/DEVDATT00/suuu/tree/master/0055-jump-game) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/DEVDATT00/suuu/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DEVDATT00/suuu/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
