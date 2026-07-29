@@ -1,7 +1,6 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        vector<int>numbers;
         int max = 0;
         int smax = 0;
         int tem ;
