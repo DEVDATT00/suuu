@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DEVDATT00/suuu/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/DEVDATT00/suuu/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DEVDATT00/suuu/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/DEVDATT00/suuu/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/DEVDATT00/suuu/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/DEVDATT00/suuu/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DEVDATT00/suuu/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DEVDATT00/suuu/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/DEVDATT00/suuu/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/DEVDATT00/suuu/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/DEVDATT00/suuu/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVDATT00/suuu/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/DEVDATT00/suuu/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/DEVDATT00/suuu/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DEVDATT00/suuu/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/DEVDATT00/suuu/tree/master/0463-island-perimeter) |
