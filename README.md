@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DEVDATT00/suuu/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/DEVDATT00/suuu/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/DEVDATT00/suuu/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/DEVDATT00/suuu/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVDATT00/suuu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/DEVDATT00/suuu/tree/master/0130-surrounded-regions) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/DEVDATT00/suuu/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/DEVDATT00/suuu/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/DEVDATT00/suuu/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/DEVDATT00/suuu/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVDATT00/suuu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/DEVDATT00/suuu/tree/master/0509-fibonacci-number) |
