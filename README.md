@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DEVDATT00/suuu/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/DEVDATT00/suuu/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/DEVDATT00/suuu/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/DEVDATT00/suuu/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/DEVDATT00/suuu/tree/master/0055-jump-game) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DEVDATT00/suuu/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/DEVDATT00/suuu/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DEVDATT00/suuu/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DEVDATT00/suuu/tree/master/0217-contains-duplicate) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DEVDATT00/suuu/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/DEVDATT00/suuu/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DEVDATT00/suuu/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/DEVDATT00/suuu/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DEVDATT00/suuu/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
