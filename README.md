@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/DEVDATT00/suuu/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DEVDATT00/suuu/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/DEVDATT00/suuu/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/DEVDATT00/suuu/tree/master/0509-fibonacci-number) |
 ## Array
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/DEVDATT00/suuu/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DEVDATT00/suuu/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/DEVDATT00/suuu/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/DEVDATT00/suuu/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVDATT00/suuu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/DEVDATT00/suuu/tree/master/0541-reverse-string-ii) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
 | [0897-increasing-order-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3174-clear-digits](https://github.com/DEVDATT00/suuu/tree/master/3174-clear-digits) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/DEVDATT00/suuu/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/DEVDATT00/suuu/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DEVDATT00/suuu/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
