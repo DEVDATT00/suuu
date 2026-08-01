@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DEVDATT00/suuu/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/DEVDATT00/suuu/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DEVDATT00/suuu/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DEVDATT00/suuu/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVDATT00/suuu/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DEVDATT00/suuu/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DEVDATT00/suuu/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/DEVDATT00/suuu/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DEVDATT00/suuu/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/DEVDATT00/suuu/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/DEVDATT00/suuu/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVDATT00/suuu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/DEVDATT00/suuu/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/DEVDATT00/suuu/tree/master/0704-binary-search) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/DEVDATT00/suuu/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVDATT00/suuu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/DEVDATT00/suuu/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DEVDATT00/suuu/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/DEVDATT00/suuu/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/DEVDATT00/suuu/tree/master/1143-longest-common-subsequence) |
@@ -595,4 +599,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/DEVDATT00/suuu/tree/master/0912-sort-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
