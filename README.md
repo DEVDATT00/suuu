@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DEVDATT00/suuu/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/DEVDATT00/suuu/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DEVDATT00/suuu/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/DEVDATT00/suuu/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DEVDATT00/suuu/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/DEVDATT00/suuu/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DEVDATT00/suuu/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DEVDATT00/suuu/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/DEVDATT00/suuu/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/DEVDATT00/suuu/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/DEVDATT00/suuu/tree/master/0344-reverse-string) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/DEVDATT00/suuu/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DEVDATT00/suuu/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DEVDATT00/suuu/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/DEVDATT00/suuu/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/DEVDATT00/suuu/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/DEVDATT00/suuu/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
