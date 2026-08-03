@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVDATT00/suuu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/DEVDATT00/suuu/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/DEVDATT00/suuu/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DEVDATT00/suuu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DEVDATT00/suuu/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/DEVDATT00/suuu/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DEVDATT00/suuu/tree/master/0200-number-of-islands) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DEVDATT00/suuu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DEVDATT00/suuu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DEVDATT00/suuu/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVDATT00/suuu/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DEVDATT00/suuu/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/DEVDATT00/suuu/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/DEVDATT00/suuu/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DEVDATT00/suuu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/DEVDATT00/suuu/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVDATT00/suuu/tree/master/0350-intersection-of-two-arrays-ii) |
