@@ -1,0 +1,28 @@
+class Solution {
+    void dfs(vector<vector<char>>& board,int i , int j , int row , int col ){
+        if(i < 0 || j < 0 || i >= row || j >= col )
+            return ;
+        if(board[i][j] != 'X')
+            return ;
+        board[i][j] = '.';
+        dfs(board,i+1,j,row,col);
+        dfs(board,i-1,j,row,col);
+        dfs(board,i,j+1,row,col);
+        dfs(board,i,j-1,row,col);
+    }
+public:
+    int countBattleships(vector<vector<char>>& board) {
+        int count = 0;
+        int row = board.size();
+        int col = board[0].size();
+        for(int i = 0 ; i < row ; i++){
+            for(int j = 0 ; j < col ; j++){
+                if(board[i][j] == 'X'){
+                    count++;
+                    dfs(board,i,j,row,col);
+                }
+            }
+        }
+        return count;
+    }
+};
