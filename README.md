@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/DEVDATT00/suuu/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DEVDATT00/suuu/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DEVDATT00/suuu/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3731-find-missing-elements](https://github.com/DEVDATT00/suuu/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DEVDATT00/suuu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DEVDATT00/suuu/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/DEVDATT00/suuu/tree/master/3925-concatenate-array-with-reverse) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/DEVDATT00/suuu/tree/master/1512-number-of-good-pairs) |
 | [2374-node-with-highest-edge-score](https://github.com/DEVDATT00/suuu/tree/master/2374-node-with-highest-edge-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DEVDATT00/suuu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/DEVDATT00/suuu/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DEVDATT00/suuu/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DEVDATT00/suuu/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DEVDATT00/suuu/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/DEVDATT00/suuu/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DEVDATT00/suuu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
