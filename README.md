@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/DEVDATT00/suuu/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVDATT00/suuu/tree/master/1971-find-if-path-exists-in-graph) |
 | [2374-node-with-highest-edge-score](https://github.com/DEVDATT00/suuu/tree/master/2374-node-with-highest-edge-score) |
+| [3310-remove-methods-from-project](https://github.com/DEVDATT00/suuu/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DEVDATT00/suuu/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Number Theory
 |  |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DEVDATT00/suuu/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1905-count-sub-islands](https://github.com/DEVDATT00/suuu/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVDATT00/suuu/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/DEVDATT00/suuu/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/DEVDATT00/suuu/tree/master/1302-deepest-leaves-sum) |
 | [1905-count-sub-islands](https://github.com/DEVDATT00/suuu/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVDATT00/suuu/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/DEVDATT00/suuu/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
