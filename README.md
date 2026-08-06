@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/DEVDATT00/suuu/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/DEVDATT00/suuu/tree/master/0566-reshape-the-matrix) |
+| [0624-maximum-distance-in-arrays](https://github.com/DEVDATT00/suuu/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVDATT00/suuu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/DEVDATT00/suuu/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/DEVDATT00/suuu/tree/master/0704-binary-search) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DEVDATT00/suuu/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/DEVDATT00/suuu/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DEVDATT00/suuu/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0624-maximum-distance-in-arrays](https://github.com/DEVDATT00/suuu/tree/master/0624-maximum-distance-in-arrays) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/DEVDATT00/suuu/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DEVDATT00/suuu/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVDATT00/suuu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
