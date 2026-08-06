@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/DEVDATT00/suuu/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/DEVDATT00/suuu/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/DEVDATT00/suuu/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/DEVDATT00/suuu/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVDATT00/suuu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/DEVDATT00/suuu/tree/master/0695-max-area-of-island) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DEVDATT00/suuu/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DEVDATT00/suuu/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/DEVDATT00/suuu/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/DEVDATT00/suuu/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/DEVDATT00/suuu/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/DEVDATT00/suuu/tree/master/1143-longest-common-subsequence) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/DEVDATT00/suuu/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/DEVDATT00/suuu/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/DEVDATT00/suuu/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/DEVDATT00/suuu/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/DEVDATT00/suuu/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/DEVDATT00/suuu/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DEVDATT00/suuu/tree/master/0733-flood-fill) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/DEVDATT00/suuu/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DEVDATT00/suuu/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DEVDATT00/suuu/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/DEVDATT00/suuu/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/DEVDATT00/suuu/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DEVDATT00/suuu/tree/master/0653-two-sum-iv-input-is-a-bst) |
