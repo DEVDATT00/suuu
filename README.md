@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/DEVDATT00/suuu/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DEVDATT00/suuu/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DEVDATT00/suuu/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/DEVDATT00/suuu/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/DEVDATT00/suuu/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/DEVDATT00/suuu/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/DEVDATT00/suuu/tree/master/0165-compare-version-numbers) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/DEVDATT00/suuu/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DEVDATT00/suuu/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/DEVDATT00/suuu/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/DEVDATT00/suuu/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/DEVDATT00/suuu/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/DEVDATT00/suuu/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/DEVDATT00/suuu/tree/master/0257-binary-tree-paths) |
