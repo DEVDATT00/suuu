@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEVDATT00/suuu/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/DEVDATT00/suuu/tree/master/0008-string-to-integer-atoi) |
+| [0032-longest-valid-parentheses](https://github.com/DEVDATT00/suuu/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/DEVDATT00/suuu/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DEVDATT00/suuu/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/DEVDATT00/suuu/tree/master/0079-word-search) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DEVDATT00/suuu/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/DEVDATT00/suuu/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/DEVDATT00/suuu/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DEVDATT00/suuu/tree/master/0118-pascals-triangle) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DEVDATT00/suuu/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/DEVDATT00/suuu/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0144-binary-tree-preorder-traversal) |
@@ -689,4 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/DEVDATT00/suuu/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/DEVDATT00/suuu/tree/master/1406-stone-game-iii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/DEVDATT00/suuu/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/DEVDATT00/suuu/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
