@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DEVDATT00/suuu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DEVDATT00/suuu/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/DEVDATT00/suuu/tree/master/3925-concatenate-array-with-reverse) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/DEVDATT00/suuu/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3975-filter-occupied-intervals](https://github.com/DEVDATT00/suuu/tree/master/3975-filter-occupied-intervals) |
 ## Hash Table
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/DEVDATT00/suuu/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DEVDATT00/suuu/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DEVDATT00/suuu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/DEVDATT00/suuu/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
 | ------- |
