@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DEVDATT00/suuu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DEVDATT00/suuu/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/DEVDATT00/suuu/tree/master/3925-concatenate-array-with-reverse) |
+| [3975-filter-occupied-intervals](https://github.com/DEVDATT00/suuu/tree/master/3975-filter-occupied-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/DEVDATT00/suuu/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/DEVDATT00/suuu/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DEVDATT00/suuu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3975-filter-occupied-intervals](https://github.com/DEVDATT00/suuu/tree/master/3975-filter-occupied-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
