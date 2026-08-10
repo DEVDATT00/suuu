@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DEVDATT00/suuu/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DEVDATT00/suuu/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/DEVDATT00/suuu/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/DEVDATT00/suuu/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DEVDATT00/suuu/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DEVDATT00/suuu/tree/master/0055-jump-game) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DEVDATT00/suuu/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEVDATT00/suuu/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/DEVDATT00/suuu/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/DEVDATT00/suuu/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DEVDATT00/suuu/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DEVDATT00/suuu/tree/master/0169-majority-element) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DEVDATT00/suuu/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/DEVDATT00/suuu/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DEVDATT00/suuu/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DEVDATT00/suuu/tree/master/0073-set-matrix-zeroes) |
