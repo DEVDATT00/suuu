@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DEVDATT00/suuu/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DEVDATT00/suuu/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/DEVDATT00/suuu/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/DEVDATT00/suuu/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DEVDATT00/suuu/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/DEVDATT00/suuu/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DEVDATT00/suuu/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DEVDATT00/suuu/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/DEVDATT00/suuu/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/DEVDATT00/suuu/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DEVDATT00/suuu/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DEVDATT00/suuu/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/DEVDATT00/suuu/tree/master/0120-triangle) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/DEVDATT00/suuu/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/DEVDATT00/suuu/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DEVDATT00/suuu/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/DEVDATT00/suuu/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DEVDATT00/suuu/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/DEVDATT00/suuu/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/DEVDATT00/suuu/tree/master/0130-surrounded-regions) |
