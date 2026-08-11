@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/DEVDATT00/suuu/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/DEVDATT00/suuu/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVDATT00/suuu/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/DEVDATT00/suuu/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/DEVDATT00/suuu/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/DEVDATT00/suuu/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/DEVDATT00/suuu/tree/master/0733-flood-fill) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DEVDATT00/suuu/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVDATT00/suuu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/DEVDATT00/suuu/tree/master/0367-valid-perfect-square) |
+| [0658-find-k-closest-elements](https://github.com/DEVDATT00/suuu/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/DEVDATT00/suuu/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DEVDATT00/suuu/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DEVDATT00/suuu/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DEVDATT00/suuu/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/DEVDATT00/suuu/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVDATT00/suuu/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/DEVDATT00/suuu/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/DEVDATT00/suuu/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/DEVDATT00/suuu/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0977-squares-of-a-sorted-array) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/DEVDATT00/suuu/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DEVDATT00/suuu/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DEVDATT00/suuu/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/DEVDATT00/suuu/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/DEVDATT00/suuu/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/DEVDATT00/suuu/tree/master/0905-sort-array-by-parity) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/DEVDATT00/suuu/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/DEVDATT00/suuu/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DEVDATT00/suuu/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -694,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEVDATT00/suuu/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/DEVDATT00/suuu/tree/master/0658-find-k-closest-elements) |
 | [1652-defuse-the-bomb](https://github.com/DEVDATT00/suuu/tree/master/1652-defuse-the-bomb) |
 ## Brainteaser
 |  |
