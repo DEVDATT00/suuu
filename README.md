@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/DEVDATT00/suuu/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DEVDATT00/suuu/tree/master/0509-fibonacci-number) |
+| [0593-valid-square](https://github.com/DEVDATT00/suuu/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVDATT00/suuu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/DEVDATT00/suuu/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DEVDATT00/suuu/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -747,4 +748,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DEVDATT00/suuu/tree/master/0032-longest-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/DEVDATT00/suuu/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
