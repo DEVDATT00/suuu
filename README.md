@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/DEVDATT00/suuu/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DEVDATT00/suuu/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/DEVDATT00/suuu/tree/master/0832-flipping-an-image) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DEVDATT00/suuu/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEVDATT00/suuu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DEVDATT00/suuu/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DEVDATT00/suuu/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DEVDATT00/suuu/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/DEVDATT00/suuu/tree/master/3731-find-missing-elements) |
 | [3809-best-reachable-tower](https://github.com/DEVDATT00/suuu/tree/master/3809-best-reachable-tower) |
 | [3819-rotate-non-negative-elements](https://github.com/DEVDATT00/suuu/tree/master/3819-rotate-non-negative-elements) |
