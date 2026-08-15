@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DEVDATT00/suuu/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/DEVDATT00/suuu/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DEVDATT00/suuu/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/DEVDATT00/suuu/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DEVDATT00/suuu/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DEVDATT00/suuu/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3790-smallest-all-ones-multiple](https://github.com/DEVDATT00/suuu/tree/master/3790-smallest-all-ones-multiple) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/DEVDATT00/suuu/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/DEVDATT00/suuu/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/DEVDATT00/suuu/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/DEVDATT00/suuu/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DEVDATT00/suuu/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3819-rotate-non-negative-elements](https://github.com/DEVDATT00/suuu/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DEVDATT00/suuu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
