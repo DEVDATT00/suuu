@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/DEVDATT00/suuu/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/DEVDATT00/suuu/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVDATT00/suuu/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DEVDATT00/suuu/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/DEVDATT00/suuu/tree/master/2169-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/DEVDATT00/suuu/tree/master/2396-strictly-palindromic-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DEVDATT00/suuu/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1905-count-sub-islands](https://github.com/DEVDATT00/suuu/tree/master/1905-count-sub-islands) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVDATT00/suuu/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVDATT00/suuu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/DEVDATT00/suuu/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2404-most-frequent-even-element](https://github.com/DEVDATT00/suuu/tree/master/2404-most-frequent-even-element) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DEVDATT00/suuu/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVDATT00/suuu/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/DEVDATT00/suuu/tree/master/1512-number-of-good-pairs) |
+| [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
 | [2404-most-frequent-even-element](https://github.com/DEVDATT00/suuu/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DEVDATT00/suuu/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DEVDATT00/suuu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/DEVDATT00/suuu/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DEVDATT00/suuu/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVDATT00/suuu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DEVDATT00/suuu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DEVDATT00/suuu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
@@ -759,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DEVDATT00/suuu/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/DEVDATT00/suuu/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/DEVDATT00/suuu/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Bracket Sequences
 |  |
@@ -772,4 +777,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/DEVDATT00/suuu/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
