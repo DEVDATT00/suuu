@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DEVDATT00/suuu/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/DEVDATT00/suuu/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/DEVDATT00/suuu/tree/master/0070-climbing-stairs) |
+| [0223-rectangle-area](https://github.com/DEVDATT00/suuu/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/DEVDATT00/suuu/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/DEVDATT00/suuu/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DEVDATT00/suuu/tree/master/0268-missing-number) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/DEVDATT00/suuu/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/DEVDATT00/suuu/tree/master/0593-valid-square) |
 ## Monotonic Queue
 |  |
