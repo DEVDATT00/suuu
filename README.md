@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/DEVDATT00/suuu/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/DEVDATT00/suuu/tree/master/0746-min-cost-climbing-stairs) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/DEVDATT00/suuu/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0817-linked-list-components](https://github.com/DEVDATT00/suuu/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/DEVDATT00/suuu/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/DEVDATT00/suuu/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/DEVDATT00/suuu/tree/master/0905-sort-array-by-parity) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DEVDATT00/suuu/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/DEVDATT00/suuu/tree/master/0771-jewels-and-stones) |
+| [0817-linked-list-components](https://github.com/DEVDATT00/suuu/tree/master/0817-linked-list-components) |
 | [0997-find-the-town-judge](https://github.com/DEVDATT00/suuu/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/DEVDATT00/suuu/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/DEVDATT00/suuu/tree/master/1331-rank-transform-of-an-array) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/DEVDATT00/suuu/tree/master/0445-add-two-numbers-ii) |
+| [0817-linked-list-components](https://github.com/DEVDATT00/suuu/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DEVDATT00/suuu/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/DEVDATT00/suuu/tree/master/1721-swapping-nodes-in-a-linked-list) |
