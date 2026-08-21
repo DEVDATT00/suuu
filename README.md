@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DEVDATT00/suuu/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/DEVDATT00/suuu/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVDATT00/suuu/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/DEVDATT00/suuu/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/DEVDATT00/suuu/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DEVDATT00/suuu/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DEVDATT00/suuu/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVDATT00/suuu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/DEVDATT00/suuu/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/DEVDATT00/suuu/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DEVDATT00/suuu/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/DEVDATT00/suuu/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVDATT00/suuu/tree/master/0628-maximum-product-of-three-numbers) |
