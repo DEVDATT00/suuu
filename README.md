@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DEVDATT00/suuu/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/DEVDATT00/suuu/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DEVDATT00/suuu/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/DEVDATT00/suuu/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DEVDATT00/suuu/tree/master/0119-pascals-triangle-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/DEVDATT00/suuu/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DEVDATT00/suuu/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DEVDATT00/suuu/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DEVDATT00/suuu/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DEVDATT00/suuu/tree/master/0217-contains-duplicate) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/DEVDATT00/suuu/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DEVDATT00/suuu/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DEVDATT00/suuu/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DEVDATT00/suuu/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DEVDATT00/suuu/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DEVDATT00/suuu/tree/master/0142-linked-list-cycle-ii) |
