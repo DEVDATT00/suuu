@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/DEVDATT00/suuu/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DEVDATT00/suuu/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DEVDATT00/suuu/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/DEVDATT00/suuu/tree/master/1441-build-an-array-with-stack-operations) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DEVDATT00/suuu/tree/master/2487-remove-nodes-from-linked-list) |
 | [3174-clear-digits](https://github.com/DEVDATT00/suuu/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DEVDATT00/suuu/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/DEVDATT00/suuu/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DEVDATT00/suuu/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DEVDATT00/suuu/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/DEVDATT00/suuu/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Prefix Sum
 |  |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DEVDATT00/suuu/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
