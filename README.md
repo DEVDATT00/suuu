@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DEVDATT00/suuu/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/DEVDATT00/suuu/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DEVDATT00/suuu/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/DEVDATT00/suuu/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/DEVDATT00/suuu/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/DEVDATT00/suuu/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DEVDATT00/suuu/tree/master/0240-search-a-2d-matrix-ii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DEVDATT00/suuu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/DEVDATT00/suuu/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DEVDATT00/suuu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DEVDATT00/suuu/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVDATT00/suuu/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DEVDATT00/suuu/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/DEVDATT00/suuu/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVDATT00/suuu/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/DEVDATT00/suuu/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEVDATT00/suuu/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/DEVDATT00/suuu/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/DEVDATT00/suuu/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVDATT00/suuu/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DEVDATT00/suuu/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
