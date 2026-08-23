@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DEVDATT00/suuu/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/DEVDATT00/suuu/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/DEVDATT00/suuu/tree/master/1512-number-of-good-pairs) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/DEVDATT00/suuu/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVDATT00/suuu/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DEVDATT00/suuu/tree/master/2119-a-number-after-a-double-reversal) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/DEVDATT00/suuu/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/DEVDATT00/suuu/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DEVDATT00/suuu/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/DEVDATT00/suuu/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DEVDATT00/suuu/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/DEVDATT00/suuu/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2810-faulty-keyboard](https://github.com/DEVDATT00/suuu/tree/master/2810-faulty-keyboard) |
