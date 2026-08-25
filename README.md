@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DEVDATT00/suuu/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/DEVDATT00/suuu/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/DEVDATT00/suuu/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DEVDATT00/suuu/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0223-rectangle-area](https://github.com/DEVDATT00/suuu/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/DEVDATT00/suuu/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/DEVDATT00/suuu/tree/master/0231-power-of-two) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/DEVDATT00/suuu/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/DEVDATT00/suuu/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/DEVDATT00/suuu/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DEVDATT00/suuu/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DEVDATT00/suuu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DEVDATT00/suuu/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/DEVDATT00/suuu/tree/master/0198-house-robber) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/DEVDATT00/suuu/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DEVDATT00/suuu/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/DEVDATT00/suuu/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/DEVDATT00/suuu/tree/master/0445-add-two-numbers-ii) |
