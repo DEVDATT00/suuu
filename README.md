@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-smallest-all-ones-multiple](https://github.com/DEVDATT00/suuu/tree/master/3790-smallest-all-ones-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DEVDATT00/suuu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3908-valid-digit-number](https://github.com/DEVDATT00/suuu/tree/master/3908-valid-digit-number) |
+| [3945-digit-frequency-score](https://github.com/DEVDATT00/suuu/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/DEVDATT00/suuu/tree/master/3731-find-missing-elements) |
 | [3790-smallest-all-ones-multiple](https://github.com/DEVDATT00/suuu/tree/master/3790-smallest-all-ones-multiple) |
 | [3853-merge-close-characters](https://github.com/DEVDATT00/suuu/tree/master/3853-merge-close-characters) |
+| [3945-digit-frequency-score](https://github.com/DEVDATT00/suuu/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
