@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/DEVDATT00/suuu/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/DEVDATT00/suuu/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVDATT00/suuu/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/DEVDATT00/suuu/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/DEVDATT00/suuu/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/DEVDATT00/suuu/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DEVDATT00/suuu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEVDATT00/suuu/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/DEVDATT00/suuu/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/DEVDATT00/suuu/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/DEVDATT00/suuu/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/DEVDATT00/suuu/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DEVDATT00/suuu/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DEVDATT00/suuu/tree/master/0160-intersection-of-two-linked-lists) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DEVDATT00/suuu/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/DEVDATT00/suuu/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DEVDATT00/suuu/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/DEVDATT00/suuu/tree/master/0547-number-of-provinces) |
