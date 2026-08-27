@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/DEVDATT00/suuu/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/DEVDATT00/suuu/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/DEVDATT00/suuu/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/DEVDATT00/suuu/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DEVDATT00/suuu/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DEVDATT00/suuu/tree/master/0055-jump-game) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/DEVDATT00/suuu/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DEVDATT00/suuu/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/DEVDATT00/suuu/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DEVDATT00/suuu/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DEVDATT00/suuu/tree/master/0169-majority-element) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DEVDATT00/suuu/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/DEVDATT00/suuu/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/DEVDATT00/suuu/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/DEVDATT00/suuu/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DEVDATT00/suuu/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DEVDATT00/suuu/tree/master/0090-subsets-ii) |
