@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/DEVDATT00/suuu/tree/master/2169-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/DEVDATT00/suuu/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/DEVDATT00/suuu/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/DEVDATT00/suuu/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DEVDATT00/suuu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/DEVDATT00/suuu/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/DEVDATT00/suuu/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/DEVDATT00/suuu/tree/master/1291-sequential-digits) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DEVDATT00/suuu/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/DEVDATT00/suuu/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DEVDATT00/suuu/tree/master/3345-smallest-divisible-digit-product-i) |
 | [4024-nearest-available-drone](https://github.com/DEVDATT00/suuu/tree/master/4024-nearest-available-drone) |
 ## Graph Theory
