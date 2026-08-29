@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3925-concatenate-array-with-reverse](https://github.com/DEVDATT00/suuu/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/DEVDATT00/suuu/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3975-filter-occupied-intervals](https://github.com/DEVDATT00/suuu/tree/master/3975-filter-occupied-intervals) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/DEVDATT00/suuu/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4024-nearest-available-drone](https://github.com/DEVDATT00/suuu/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DEVDATT00/suuu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3913-sort-vowels-by-frequency](https://github.com/DEVDATT00/suuu/tree/master/3913-sort-vowels-by-frequency) |
 | [3975-filter-occupied-intervals](https://github.com/DEVDATT00/suuu/tree/master/3975-filter-occupied-intervals) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/DEVDATT00/suuu/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DEVDATT00/suuu/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DEVDATT00/suuu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/DEVDATT00/suuu/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/DEVDATT00/suuu/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## String
 |  |
 | ------- |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DEVDATT00/suuu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DEVDATT00/suuu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/DEVDATT00/suuu/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Queue
 |  |
 | ------- |
