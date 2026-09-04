@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/DEVDATT00/suuu/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/DEVDATT00/suuu/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/DEVDATT00/suuu/tree/master/0784-letter-case-permutation) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/DEVDATT00/suuu/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1108-defanging-an-ip-address](https://github.com/DEVDATT00/suuu/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/DEVDATT00/suuu/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DEVDATT00/suuu/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/DEVDATT00/suuu/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DEVDATT00/suuu/tree/master/0938-range-sum-of-bst) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/DEVDATT00/suuu/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1020-number-of-enclaves](https://github.com/DEVDATT00/suuu/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DEVDATT00/suuu/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/DEVDATT00/suuu/tree/master/1110-delete-nodes-and-return-forest) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/DEVDATT00/suuu/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DEVDATT00/suuu/tree/master/0938-range-sum-of-bst) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/DEVDATT00/suuu/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DEVDATT00/suuu/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/DEVDATT00/suuu/tree/master/1110-delete-nodes-and-return-forest) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/DEVDATT00/suuu/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DEVDATT00/suuu/tree/master/0938-range-sum-of-bst) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/DEVDATT00/suuu/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DEVDATT00/suuu/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/DEVDATT00/suuu/tree/master/1110-delete-nodes-and-return-forest) |
@@ -907,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/DEVDATT00/suuu/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/DEVDATT00/suuu/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/DEVDATT00/suuu/tree/master/0797-all-paths-from-source-to-target) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/DEVDATT00/suuu/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1219-path-with-maximum-gold](https://github.com/DEVDATT00/suuu/tree/master/1219-path-with-maximum-gold) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DEVDATT00/suuu/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Topological Sort
