@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DEVDATT00/suuu/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DEVDATT00/suuu/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DEVDATT00/suuu/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/DEVDATT00/suuu/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/DEVDATT00/suuu/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/DEVDATT00/suuu/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/DEVDATT00/suuu/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/DEVDATT00/suuu/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/DEVDATT00/suuu/tree/master/0624-maximum-distance-in-arrays) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/DEVDATT00/suuu/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1323-maximum-69-number](https://github.com/DEVDATT00/suuu/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/DEVDATT00/suuu/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVDATT00/suuu/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DEVDATT00/suuu/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
