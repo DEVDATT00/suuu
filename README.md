@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DEVDATT00/suuu/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/DEVDATT00/suuu/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/DEVDATT00/suuu/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DEVDATT00/suuu/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/DEVDATT00/suuu/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DEVDATT00/suuu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DEVDATT00/suuu/tree/master/0268-missing-number) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DEVDATT00/suuu/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DEVDATT00/suuu/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DEVDATT00/suuu/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DEVDATT00/suuu/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/DEVDATT00/suuu/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DEVDATT00/suuu/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVDATT00/suuu/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEVDATT00/suuu/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/DEVDATT00/suuu/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/DEVDATT00/suuu/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/DEVDATT00/suuu/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/DEVDATT00/suuu/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVDATT00/suuu/tree/master/1004-max-consecutive-ones-iii) |
