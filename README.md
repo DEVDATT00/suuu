@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVDATT00/suuu/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DEVDATT00/suuu/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2090-k-radius-subarray-averages](https://github.com/DEVDATT00/suuu/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DEVDATT00/suuu/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVDATT00/suuu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/DEVDATT00/suuu/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -963,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/DEVDATT00/suuu/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/DEVDATT00/suuu/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/DEVDATT00/suuu/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2090-k-radius-subarray-averages](https://github.com/DEVDATT00/suuu/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/DEVDATT00/suuu/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DEVDATT00/suuu/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEVDATT00/suuu/tree/master/3090-maximum-length-substring-with-two-occurrences) |
