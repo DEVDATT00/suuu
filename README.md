@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVDATT00/suuu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DEVDATT00/suuu/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1905-count-sub-islands](https://github.com/DEVDATT00/suuu/tree/master/1905-count-sub-islands) |
+| [1929-concatenation-of-array](https://github.com/DEVDATT00/suuu/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVDATT00/suuu/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DEVDATT00/suuu/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/DEVDATT00/suuu/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/DEVDATT00/suuu/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/DEVDATT00/suuu/tree/master/1441-build-an-array-with-stack-operations) |
+| [1929-concatenation-of-array](https://github.com/DEVDATT00/suuu/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVDATT00/suuu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/DEVDATT00/suuu/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DEVDATT00/suuu/tree/master/2181-merge-nodes-in-between-zeros) |
