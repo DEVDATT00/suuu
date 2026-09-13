@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/DEVDATT00/suuu/tree/master/0784-letter-case-permutation) |
 | [0832-flipping-an-image](https://github.com/DEVDATT00/suuu/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/DEVDATT00/suuu/tree/master/1386-cinema-seat-allocation) |
+| [1829-maximum-xor-for-each-query](https://github.com/DEVDATT00/suuu/tree/master/1829-maximum-xor-for-each-query) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DEVDATT00/suuu/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DEVDATT00/suuu/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DEVDATT00/suuu/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/DEVDATT00/suuu/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/DEVDATT00/suuu/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/DEVDATT00/suuu/tree/master/1695-maximum-erasure-value) |
+| [1829-maximum-xor-for-each-query](https://github.com/DEVDATT00/suuu/tree/master/1829-maximum-xor-for-each-query) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVDATT00/suuu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DEVDATT00/suuu/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1905-count-sub-islands](https://github.com/DEVDATT00/suuu/tree/master/1905-count-sub-islands) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/DEVDATT00/suuu/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/DEVDATT00/suuu/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVDATT00/suuu/tree/master/1004-max-consecutive-ones-iii) |
+| [1829-maximum-xor-for-each-query](https://github.com/DEVDATT00/suuu/tree/master/1829-maximum-xor-for-each-query) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/DEVDATT00/suuu/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DEVDATT00/suuu/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DEVDATT00/suuu/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
