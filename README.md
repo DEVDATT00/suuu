@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0237-delete-node-in-a-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/DEVDATT00/suuu/tree/master/0445-add-two-numbers-ii) |
 | [0817-linked-list-components](https://github.com/DEVDATT00/suuu/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0876-middle-of-the-linked-list) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/DEVDATT00/suuu/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DEVDATT00/suuu/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/DEVDATT00/suuu/tree/master/0419-battleships-in-a-board) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/DEVDATT00/suuu/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/DEVDATT00/suuu/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/DEVDATT00/suuu/tree/master/0513-find-bottom-left-tree-value) |
@@ -1063,4 +1065,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/DEVDATT00/suuu/tree/master/0300-longest-increasing-subsequence) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
