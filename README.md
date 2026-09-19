@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/DEVDATT00/suuu/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/DEVDATT00/suuu/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/DEVDATT00/suuu/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DEVDATT00/suuu/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVDATT00/suuu/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DEVDATT00/suuu/tree/master/2119-a-number-after-a-double-reversal) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/DEVDATT00/suuu/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DEVDATT00/suuu/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DEVDATT00/suuu/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DEVDATT00/suuu/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/DEVDATT00/suuu/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/DEVDATT00/suuu/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/DEVDATT00/suuu/tree/master/1695-maximum-erasure-value) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DEVDATT00/suuu/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1829-maximum-xor-for-each-query](https://github.com/DEVDATT00/suuu/tree/master/1829-maximum-xor-for-each-query) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVDATT00/suuu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DEVDATT00/suuu/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/DEVDATT00/suuu/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/DEVDATT00/suuu/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/DEVDATT00/suuu/tree/master/1441-build-an-array-with-stack-operations) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DEVDATT00/suuu/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/DEVDATT00/suuu/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVDATT00/suuu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/DEVDATT00/suuu/tree/master/2169-count-operations-to-obtain-zero) |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVDATT00/suuu/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DEVDATT00/suuu/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/DEVDATT00/suuu/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Stack
 |  |
