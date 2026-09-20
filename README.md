@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/DEVDATT00/suuu/tree/master/3174-clear-digits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DEVDATT00/suuu/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/DEVDATT00/suuu/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3498-reverse-degree-of-a-string](https://github.com/DEVDATT00/suuu/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DEVDATT00/suuu/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DEVDATT00/suuu/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DEVDATT00/suuu/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DEVDATT00/suuu/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/DEVDATT00/suuu/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/DEVDATT00/suuu/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/DEVDATT00/suuu/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/DEVDATT00/suuu/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DEVDATT00/suuu/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3819-rotate-non-negative-elements](https://github.com/DEVDATT00/suuu/tree/master/3819-rotate-non-negative-elements) |
