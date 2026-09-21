@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DEVDATT00/suuu/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/DEVDATT00/suuu/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/DEVDATT00/suuu/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DEVDATT00/suuu/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DEVDATT00/suuu/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DEVDATT00/suuu/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVDATT00/suuu/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/DEVDATT00/suuu/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/DEVDATT00/suuu/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/DEVDATT00/suuu/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/DEVDATT00/suuu/tree/master/0468-validate-ip-address) |
 | [0520-detect-capital](https://github.com/DEVDATT00/suuu/tree/master/0520-detect-capital) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/DEVDATT00/suuu/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/DEVDATT00/suuu/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/DEVDATT00/suuu/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/DEVDATT00/suuu/tree/master/0445-add-two-numbers-ii) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0636-exclusive-time-of-functions](https://github.com/DEVDATT00/suuu/tree/master/0636-exclusive-time-of-functions) |
