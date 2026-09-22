@@ -716,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-maximal-network-rank](https://github.com/DEVDATT00/suuu/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/DEVDATT00/suuu/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVDATT00/suuu/tree/master/1971-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DEVDATT00/suuu/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2374-node-with-highest-edge-score](https://github.com/DEVDATT00/suuu/tree/master/2374-node-with-highest-edge-score) |
 | [3310-remove-methods-from-project](https://github.com/DEVDATT00/suuu/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DEVDATT00/suuu/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/1382-balance-a-binary-search-tree) |
 | [1905-count-sub-islands](https://github.com/DEVDATT00/suuu/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVDATT00/suuu/tree/master/1971-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DEVDATT00/suuu/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DEVDATT00/suuu/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/DEVDATT00/suuu/tree/master/3310-remove-methods-from-project) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/DEVDATT00/suuu/tree/master/1609-even-odd-tree) |
 | [1905-count-sub-islands](https://github.com/DEVDATT00/suuu/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVDATT00/suuu/tree/master/1971-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DEVDATT00/suuu/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/DEVDATT00/suuu/tree/master/3310-remove-methods-from-project) |
 | [3905-multi-source-flood-fill](https://github.com/DEVDATT00/suuu/tree/master/3905-multi-source-flood-fill) |
@@ -1013,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/DEVDATT00/suuu/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/DEVDATT00/suuu/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/DEVDATT00/suuu/tree/master/0851-loud-and-rich) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DEVDATT00/suuu/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1114,4 +1118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/DEVDATT00/suuu/tree/master/0207-course-schedule) |
 | [0851-loud-and-rich](https://github.com/DEVDATT00/suuu/tree/master/0851-loud-and-rich) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DEVDATT00/suuu/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
