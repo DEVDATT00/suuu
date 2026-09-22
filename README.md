@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/DEVDATT00/suuu/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/DEVDATT00/suuu/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/DEVDATT00/suuu/tree/master/0835-image-overlap) |
+| [0851-loud-and-rich](https://github.com/DEVDATT00/suuu/tree/master/0851-loud-and-rich) |
 | [0877-stone-game](https://github.com/DEVDATT00/suuu/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/DEVDATT00/suuu/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/DEVDATT00/suuu/tree/master/0912-sort-an-array) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/DEVDATT00/suuu/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/DEVDATT00/suuu/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/DEVDATT00/suuu/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/DEVDATT00/suuu/tree/master/0851-loud-and-rich) |
 | [0997-find-the-town-judge](https://github.com/DEVDATT00/suuu/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/DEVDATT00/suuu/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1615-maximal-network-rank](https://github.com/DEVDATT00/suuu/tree/master/1615-maximal-network-rank) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/DEVDATT00/suuu/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/DEVDATT00/suuu/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/DEVDATT00/suuu/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/DEVDATT00/suuu/tree/master/0851-loud-and-rich) |
 | [0872-leaf-similar-trees](https://github.com/DEVDATT00/suuu/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DEVDATT00/suuu/tree/master/0938-range-sum-of-bst) |
@@ -1009,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/DEVDATT00/suuu/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DEVDATT00/suuu/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/DEVDATT00/suuu/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/DEVDATT00/suuu/tree/master/0851-loud-and-rich) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1109,4 +1113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DEVDATT00/suuu/tree/master/0207-course-schedule) |
+| [0851-loud-and-rich](https://github.com/DEVDATT00/suuu/tree/master/0851-loud-and-rich) |
 <!---LeetCode Topics End-->
