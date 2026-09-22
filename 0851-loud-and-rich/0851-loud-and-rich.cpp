@@ -1,14 +1,14 @@
 class Solution {
 public:
     vector<int> loudAndRich(vector<vector<int>>& richer, vector<int>& quiet) {
-        unordered_map<int, list<int>> m;
         int n = quiet.size();
-        vector<int> fre(n, 0);
-        for (int i = 0; i < richer.size(); i++) {
-            int u = richer[i][0];
-            int v = richer[i][1];
-            fre[v]++;
-            m[u].push_back(v);
+        vector<vector<int>> adj(n);
+        vector<int> indegree(n, 0);
+        for (auto &edge : richer) {
+            int u = edge[0];
+            int v = edge[1];
+            adj[u].push_back(v);
+            indegree[v]++;
         }
         vector<int> ans(n);
         for (int i = 0; i < n; i++) {
@@ -16,18 +16,19 @@ public:
         }
         queue<int> q;
         for (int i = 0; i < n; i++) {
-            if (fre[i] == 0)
+            if (indegree[i] == 0) {
                 q.push(i);
+            }
         }
         while (!q.empty()) {
-            int tem = q.front();
+            int u = q.front();
             q.pop();
-            for (auto v : m[tem]) {
-                if (quiet[ans[tem]] < quiet[ans[v]]) {
-                    ans[v] = ans[tem];
+            for (int v : adj[u]) {
+                if (quiet[ans[u]] < quiet[ans[v]]) {
+                    ans[v] = ans[u];
                 }
-                fre[v]--;
-                if (fre[v] == 0) {
+                indegree[v]--;
+                if (indegree[v] == 0) {
                     q.push(v);
                 }
             }
