@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DEVDATT00/suuu/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DEVDATT00/suuu/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/DEVDATT00/suuu/tree/master/1386-cinema-seat-allocation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/DEVDATT00/suuu/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/DEVDATT00/suuu/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DEVDATT00/suuu/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DEVDATT00/suuu/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/DEVDATT00/suuu/tree/master/1386-cinema-seat-allocation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/DEVDATT00/suuu/tree/master/1512-number-of-good-pairs) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVDATT00/suuu/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1695-maximum-erasure-value](https://github.com/DEVDATT00/suuu/tree/master/1695-maximum-erasure-value) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DEVDATT00/suuu/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/DEVDATT00/suuu/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVDATT00/suuu/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/DEVDATT00/suuu/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
 | [2404-most-frequent-even-element](https://github.com/DEVDATT00/suuu/tree/master/2404-most-frequent-even-element) |
