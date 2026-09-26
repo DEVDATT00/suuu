@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/DEVDATT00/suuu/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DEVDATT00/suuu/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/DEVDATT00/suuu/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/DEVDATT00/suuu/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEVDATT00/suuu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DEVDATT00/suuu/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DEVDATT00/suuu/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/DEVDATT00/suuu/tree/master/1905-count-sub-islands) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/DEVDATT00/suuu/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/DEVDATT00/suuu/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/DEVDATT00/suuu/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DEVDATT00/suuu/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3905-multi-source-flood-fill](https://github.com/DEVDATT00/suuu/tree/master/3905-multi-source-flood-fill) |
 ## Linked List
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DEVDATT00/suuu/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DEVDATT00/suuu/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/DEVDATT00/suuu/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/DEVDATT00/suuu/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/DEVDATT00/suuu/tree/master/3310-remove-methods-from-project) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVDATT00/suuu/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DEVDATT00/suuu/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/DEVDATT00/suuu/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/DEVDATT00/suuu/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/DEVDATT00/suuu/tree/master/3310-remove-methods-from-project) |
 | [3905-multi-source-flood-fill](https://github.com/DEVDATT00/suuu/tree/master/3905-multi-source-flood-fill) |
@@ -880,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/DEVDATT00/suuu/tree/master/1584-min-cost-to-connect-all-points) |
 | [1905-count-sub-islands](https://github.com/DEVDATT00/suuu/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVDATT00/suuu/tree/master/1971-find-if-path-exists-in-graph) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/DEVDATT00/suuu/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/DEVDATT00/suuu/tree/master/2685-count-the-number-of-complete-components) |
 ## Tree
 |  |
