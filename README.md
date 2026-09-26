@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/DEVDATT00/suuu/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/DEVDATT00/suuu/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/DEVDATT00/suuu/tree/master/1695-maximum-erasure-value) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DEVDATT00/suuu/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DEVDATT00/suuu/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1829-maximum-xor-for-each-query](https://github.com/DEVDATT00/suuu/tree/master/1829-maximum-xor-for-each-query) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVDATT00/suuu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/DEVDATT00/suuu/tree/master/1512-number-of-good-pairs) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVDATT00/suuu/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1695-maximum-erasure-value](https://github.com/DEVDATT00/suuu/tree/master/1695-maximum-erasure-value) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DEVDATT00/suuu/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2374-node-with-highest-edge-score](https://github.com/DEVDATT00/suuu/tree/master/2374-node-with-highest-edge-score) |
 | [2404-most-frequent-even-element](https://github.com/DEVDATT00/suuu/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEVDATT00/suuu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/DEVDATT00/suuu/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVDATT00/suuu/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DEVDATT00/suuu/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DEVDATT00/suuu/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/DEVDATT00/suuu/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2810-faulty-keyboard](https://github.com/DEVDATT00/suuu/tree/master/2810-faulty-keyboard) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DEVDATT00/suuu/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
