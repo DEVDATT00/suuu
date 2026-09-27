@@ -1,6 +1,6 @@
 class Solution {
     void findout(vector<vector<int>>& land,vector<int>&tem,int i , int j , int row , int col){
-        if(i >= row || j >= col || i < 0 || j < 0 || land[i][j] == 0)
+        if(i >= row || j >= col || land[i][j] == 0)
             return;
         tem[2] = max(tem[2],i);
         tem[3] = max(tem[3],j);
