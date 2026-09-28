@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DEVDATT00/suuu/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/DEVDATT00/suuu/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/DEVDATT00/suuu/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/DEVDATT00/suuu/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/DEVDATT00/suuu/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/DEVDATT00/suuu/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEVDATT00/suuu/tree/master/0977-squares-of-a-sorted-array) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/DEVDATT00/suuu/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/DEVDATT00/suuu/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/DEVDATT00/suuu/tree/master/0784-letter-case-permutation) |
+| [0844-backspace-string-compare](https://github.com/DEVDATT00/suuu/tree/master/0844-backspace-string-compare) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/DEVDATT00/suuu/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1108-defanging-an-ip-address](https://github.com/DEVDATT00/suuu/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/DEVDATT00/suuu/tree/master/1143-longest-common-subsequence) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/DEVDATT00/suuu/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/DEVDATT00/suuu/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/DEVDATT00/suuu/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/DEVDATT00/suuu/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/DEVDATT00/suuu/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/DEVDATT00/suuu/tree/master/1441-build-an-array-with-stack-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DEVDATT00/suuu/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/DEVDATT00/suuu/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/DEVDATT00/suuu/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/DEVDATT00/suuu/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/DEVDATT00/suuu/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DEVDATT00/suuu/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DEVDATT00/suuu/tree/master/1019-next-greater-node-in-linked-list) |
