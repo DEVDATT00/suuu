@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVDATT00/suuu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DEVDATT00/suuu/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/DEVDATT00/suuu/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2367-number-of-arithmetic-triplets](https://github.com/DEVDATT00/suuu/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/DEVDATT00/suuu/tree/master/2404-most-frequent-even-element) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/DEVDATT00/suuu/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DEVDATT00/suuu/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVDATT00/suuu/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1695-maximum-erasure-value](https://github.com/DEVDATT00/suuu/tree/master/1695-maximum-erasure-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DEVDATT00/suuu/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2367-number-of-arithmetic-triplets](https://github.com/DEVDATT00/suuu/tree/master/2367-number-of-arithmetic-triplets) |
 | [2374-node-with-highest-edge-score](https://github.com/DEVDATT00/suuu/tree/master/2374-node-with-highest-edge-score) |
 | [2404-most-frequent-even-element](https://github.com/DEVDATT00/suuu/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEVDATT00/suuu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/DEVDATT00/suuu/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/DEVDATT00/suuu/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVDATT00/suuu/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2367-number-of-arithmetic-triplets](https://github.com/DEVDATT00/suuu/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/DEVDATT00/suuu/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DEVDATT00/suuu/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DEVDATT00/suuu/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/DEVDATT00/suuu/tree/master/1291-sequential-digits) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DEVDATT00/suuu/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2367-number-of-arithmetic-triplets](https://github.com/DEVDATT00/suuu/tree/master/2367-number-of-arithmetic-triplets) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/DEVDATT00/suuu/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DEVDATT00/suuu/tree/master/3345-smallest-divisible-digit-product-i) |
 | [4024-nearest-available-drone](https://github.com/DEVDATT00/suuu/tree/master/4024-nearest-available-drone) |
