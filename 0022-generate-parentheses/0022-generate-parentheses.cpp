@@ -1,21 +1,20 @@
 class Solution {
 public:
-    void par(int n , int op , int cl , vector<string>& ans , string ch ){
-        if(cl == n){
-            ans.push_back(ch);
+    void solve(int open, int close, string curr, vector<string>& ans) {
+        if (open == 0 && close == 0) {
+            ans.push_back(curr);
             return;
         }
-        if(op < n){
-            par(n,op+1,cl,ans,ch+"(");
+        if (open > 0) {
+            solve(open - 1, close, curr + "(", ans);
         }
-        if(cl < op){
-            par(n,op,cl+1,ans,ch+")");
+        if (close > open) {
+            solve(open, close - 1, curr + ")", ans);
         }
-        
     }
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
-        par(n,0,0,ans,"");
+        solve(n, n, "", ans);
         return ans;
     }
 };
