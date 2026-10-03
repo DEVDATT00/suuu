@@ -1,19 +1,19 @@
 class Solution {
 public:
     bool isValid(string s) {
-        string t = s;
-        for (int i = 0; i + 2 < (int)t.length(); i++) {
-            if (t[i] == 'a') {
-                string tem = t.substr(i, 3);
-                if (tem == "abc") {
-                    t.erase(i, 3);
-                    if (i >= 2)
-                        i -= 3;
-                    else
-                        i = -1;
-                }
+        stack<char> st;
+        for (char ch : s) {
+            if (ch == 'c') {
+                if (st.empty() || st.top() != 'b')
+                    return false;
+                st.pop();
+                if (st.empty() || st.top() != 'a')
+                    return false;
+                st.pop();
+            } else {
+                st.push(ch);
             }
         }
-        return t.empty();
+        return st.empty();
     }
 };
