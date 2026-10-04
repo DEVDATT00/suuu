@@ -7,22 +7,20 @@ class Solution {
         if (dp[i][balance] != -1)
             return dp[i][balance];
         bool d = false;
-        if (s[i] == '(') 
+        if (s[i] == '(')
             d = a(s, dp, i + 1, balance + 1, size);
-            else if (s[i] == ')') {
-                if (balance > 0)
-                    d = a(s, dp, i + 1, balance - 1, size);
-                else
-                    d = false;
-            }
-            else if (s[i] == '*') {
-                d = a(s, dp, i + 1, balance + 1, size) || (balance > 0 && a(s, dp, i + 1, balance - 1, size)) || a(s, dp, i + 1, balance , size);
-            }
-            return dp[i][balance] = d;
+        else if (s[i] == ')') {
+            if (balance > 0)
+                d = a(s, dp, i + 1, balance - 1, size);
+        } else if (s[i] == '*') {
+            d = a(s, dp, i + 1, balance + 1, size) || (balance > 0 && a(s, dp, i + 1, balance - 1, size)) || a(s, dp, i + 1, balance, size);
         }
-    public:
-        bool checkValidString(string s) {
-            vector<vector<int>> dp(s.length(), vector<int>(s.length() + 1, -1));
-            return a(s, dp, 0, 0, s.length());
-        }
-    };
+        return dp[i][balance] = d;
+    }
+
+public:
+    bool checkValidString(string s) {
+        vector<vector<int>> dp(s.length(), vector<int>(s.length() + 1, -1));
+        return a(s, dp, 0, 0, s.length());
+    }
+};
