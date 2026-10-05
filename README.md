@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DEVDATT00/suuu/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DEVDATT00/suuu/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DEVDATT00/suuu/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/DEVDATT00/suuu/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Recursion
 |  |
 | ------- |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3798-largest-even-number](https://github.com/DEVDATT00/suuu/tree/master/3798-largest-even-number) |
 | [3853-merge-close-characters](https://github.com/DEVDATT00/suuu/tree/master/3853-merge-close-characters) |
 | [3913-sort-vowels-by-frequency](https://github.com/DEVDATT00/suuu/tree/master/3913-sort-vowels-by-frequency) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/DEVDATT00/suuu/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/DEVDATT00/suuu/tree/master/2367-number-of-arithmetic-triplets) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/DEVDATT00/suuu/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DEVDATT00/suuu/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/DEVDATT00/suuu/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [4024-nearest-available-drone](https://github.com/DEVDATT00/suuu/tree/master/4024-nearest-available-drone) |
 ## Graph Theory
 |  |
@@ -1096,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/DEVDATT00/suuu/tree/master/1219-path-with-maximum-gold) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DEVDATT00/suuu/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DEVDATT00/suuu/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/DEVDATT00/suuu/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Topological Sort
 |  |
 | ------- |
