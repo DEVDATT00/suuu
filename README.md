@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVDATT00/suuu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DEVDATT00/suuu/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/DEVDATT00/suuu/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DEVDATT00/suuu/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DEVDATT00/suuu/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/DEVDATT00/suuu/tree/master/2404-most-frequent-even-element) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/DEVDATT00/suuu/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DEVDATT00/suuu/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/DEVDATT00/suuu/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/DEVDATT00/suuu/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DEVDATT00/suuu/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DEVDATT00/suuu/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/DEVDATT00/suuu/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVDATT00/suuu/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVDATT00/suuu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DEVDATT00/suuu/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/DEVDATT00/suuu/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEVDATT00/suuu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DEVDATT00/suuu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVDATT00/suuu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/DEVDATT00/suuu/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DEVDATT00/suuu/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DEVDATT00/suuu/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DEVDATT00/suuu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DEVDATT00/suuu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/DEVDATT00/suuu/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -662,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/DEVDATT00/suuu/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DEVDATT00/suuu/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DEVDATT00/suuu/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
 |  |
 | ------- |
