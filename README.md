@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DEVDATT00/suuu/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/DEVDATT00/suuu/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/DEVDATT00/suuu/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DEVDATT00/suuu/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEVDATT00/suuu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DEVDATT00/suuu/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DEVDATT00/suuu/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/DEVDATT00/suuu/tree/master/1291-sequential-digits) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DEVDATT00/suuu/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DEVDATT00/suuu/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DEVDATT00/suuu/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/DEVDATT00/suuu/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DEVDATT00/suuu/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/DEVDATT00/suuu/tree/master/3955-valid-binary-strings-with-cost-limit) |
