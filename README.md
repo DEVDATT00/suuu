@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/DEVDATT00/suuu/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DEVDATT00/suuu/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/DEVDATT00/suuu/tree/master/3731-find-missing-elements) |
+| [3804-number-of-centered-subarrays](https://github.com/DEVDATT00/suuu/tree/master/3804-number-of-centered-subarrays) |
 | [3809-best-reachable-tower](https://github.com/DEVDATT00/suuu/tree/master/3809-best-reachable-tower) |
 | [3819-rotate-non-negative-elements](https://github.com/DEVDATT00/suuu/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DEVDATT00/suuu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/DEVDATT00/suuu/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DEVDATT00/suuu/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3790-smallest-all-ones-multiple](https://github.com/DEVDATT00/suuu/tree/master/3790-smallest-all-ones-multiple) |
+| [3804-number-of-centered-subarrays](https://github.com/DEVDATT00/suuu/tree/master/3804-number-of-centered-subarrays) |
 | [3853-merge-close-characters](https://github.com/DEVDATT00/suuu/tree/master/3853-merge-close-characters) |
 | [3945-digit-frequency-score](https://github.com/DEVDATT00/suuu/tree/master/3945-digit-frequency-score) |
 ## Binary Search
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/DEVDATT00/suuu/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/DEVDATT00/suuu/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DEVDATT00/suuu/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3804-number-of-centered-subarrays](https://github.com/DEVDATT00/suuu/tree/master/3804-number-of-centered-subarrays) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/DEVDATT00/suuu/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [4024-nearest-available-drone](https://github.com/DEVDATT00/suuu/tree/master/4024-nearest-available-drone) |
 ## Graph Theory
