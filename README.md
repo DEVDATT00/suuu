@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/DEVDATT00/suuu/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DEVDATT00/suuu/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/DEVDATT00/suuu/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/DEVDATT00/suuu/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DEVDATT00/suuu/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DEVDATT00/suuu/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0223-rectangle-area](https://github.com/DEVDATT00/suuu/tree/master/0223-rectangle-area) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DEVDATT00/suuu/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DEVDATT00/suuu/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/DEVDATT00/suuu/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/DEVDATT00/suuu/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/DEVDATT00/suuu/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DEVDATT00/suuu/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/DEVDATT00/suuu/tree/master/0115-distinct-subsequences) |
@@ -1278,4 +1280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/DEVDATT00/suuu/tree/master/0337-house-robber-iii) |
 | [0834-sum-of-distances-in-tree](https://github.com/DEVDATT00/suuu/tree/master/0834-sum-of-distances-in-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DEVDATT00/suuu/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
