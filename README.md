@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/DEVDATT00/suuu/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DEVDATT00/suuu/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DEVDATT00/suuu/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3894-traffic-signal-color](https://github.com/DEVDATT00/suuu/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/DEVDATT00/suuu/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/DEVDATT00/suuu/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/DEVDATT00/suuu/tree/master/3945-digit-frequency-score) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DEVDATT00/suuu/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3798-largest-even-number](https://github.com/DEVDATT00/suuu/tree/master/3798-largest-even-number) |
 | [3853-merge-close-characters](https://github.com/DEVDATT00/suuu/tree/master/3853-merge-close-characters) |
+| [3894-traffic-signal-color](https://github.com/DEVDATT00/suuu/tree/master/3894-traffic-signal-color) |
 | [3913-sort-vowels-by-frequency](https://github.com/DEVDATT00/suuu/tree/master/3913-sort-vowels-by-frequency) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/DEVDATT00/suuu/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Dynamic Programming
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DEVDATT00/suuu/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3819-rotate-non-negative-elements](https://github.com/DEVDATT00/suuu/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DEVDATT00/suuu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/DEVDATT00/suuu/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/DEVDATT00/suuu/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
