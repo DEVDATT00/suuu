@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/DEVDATT00/suuu/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DEVDATT00/suuu/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DEVDATT00/suuu/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DEVDATT00/suuu/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DEVDATT00/suuu/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/DEVDATT00/suuu/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/DEVDATT00/suuu/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVDATT00/suuu/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DEVDATT00/suuu/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DEVDATT00/suuu/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/DEVDATT00/suuu/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/DEVDATT00/suuu/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DEVDATT00/suuu/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/DEVDATT00/suuu/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/DEVDATT00/suuu/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DEVDATT00/suuu/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DEVDATT00/suuu/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/DEVDATT00/suuu/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DEVDATT00/suuu/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1905-count-sub-islands](https://github.com/DEVDATT00/suuu/tree/master/1905-count-sub-islands) |
