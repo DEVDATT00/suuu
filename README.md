@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/DEVDATT00/suuu/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/DEVDATT00/suuu/tree/master/1207-unique-number-of-occurrences) |
 | [1219-path-with-maximum-gold](https://github.com/DEVDATT00/suuu/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/DEVDATT00/suuu/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/DEVDATT00/suuu/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/DEVDATT00/suuu/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DEVDATT00/suuu/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/DEVDATT00/suuu/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/DEVDATT00/suuu/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/DEVDATT00/suuu/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/DEVDATT00/suuu/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/DEVDATT00/suuu/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DEVDATT00/suuu/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DEVDATT00/suuu/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DEVDATT00/suuu/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/DEVDATT00/suuu/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/DEVDATT00/suuu/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/DEVDATT00/suuu/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DEVDATT00/suuu/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1306-jump-game-iii](https://github.com/DEVDATT00/suuu/tree/master/1306-jump-game-iii) |
@@ -957,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/DEVDATT00/suuu/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/DEVDATT00/suuu/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/DEVDATT00/suuu/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/DEVDATT00/suuu/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/DEVDATT00/suuu/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/DEVDATT00/suuu/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -981,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/DEVDATT00/suuu/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/DEVDATT00/suuu/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/DEVDATT00/suuu/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/DEVDATT00/suuu/tree/master/1254-number-of-closed-islands) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DEVDATT00/suuu/tree/master/1584-min-cost-to-connect-all-points) |
 | [1905-count-sub-islands](https://github.com/DEVDATT00/suuu/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVDATT00/suuu/tree/master/1971-find-if-path-exists-in-graph) |
