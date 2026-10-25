@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/DEVDATT00/suuu/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/DEVDATT00/suuu/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DEVDATT00/suuu/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/DEVDATT00/suuu/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVDATT00/suuu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/DEVDATT00/suuu/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/DEVDATT00/suuu/tree/master/0414-third-maximum-number) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DEVDATT00/suuu/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/DEVDATT00/suuu/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DEVDATT00/suuu/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/DEVDATT00/suuu/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVDATT00/suuu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/DEVDATT00/suuu/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVDATT00/suuu/tree/master/0387-first-unique-character-in-a-string) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DEVDATT00/suuu/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DEVDATT00/suuu/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DEVDATT00/suuu/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/DEVDATT00/suuu/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVDATT00/suuu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/DEVDATT00/suuu/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/DEVDATT00/suuu/tree/master/0414-third-maximum-number) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DEVDATT00/suuu/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/DEVDATT00/suuu/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DEVDATT00/suuu/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/DEVDATT00/suuu/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/DEVDATT00/suuu/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/DEVDATT00/suuu/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/DEVDATT00/suuu/tree/master/1382-balance-a-binary-search-tree) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DEVDATT00/suuu/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/DEVDATT00/suuu/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/DEVDATT00/suuu/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVDATT00/suuu/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -691,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DEVDATT00/suuu/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/DEVDATT00/suuu/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/DEVDATT00/suuu/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DEVDATT00/suuu/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -1207,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DEVDATT00/suuu/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/DEVDATT00/suuu/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -1304,4 +1311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DEVDATT00/suuu/tree/master/0062-unique-paths) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DEVDATT00/suuu/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
