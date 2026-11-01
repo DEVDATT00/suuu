@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/DEVDATT00/suuu/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/DEVDATT00/suuu/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/DEVDATT00/suuu/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/DEVDATT00/suuu/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DEVDATT00/suuu/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/DEVDATT00/suuu/tree/master/0593-valid-square) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/DEVDATT00/suuu/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DEVDATT00/suuu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DEVDATT00/suuu/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/DEVDATT00/suuu/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/DEVDATT00/suuu/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/DEVDATT00/suuu/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/DEVDATT00/suuu/tree/master/0486-predict-the-winner) |
